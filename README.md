@@ -1,2 +1,2 @@
 # pedrotest
-I'm tesing github from my home computer
+I'm testing github from my home computer
